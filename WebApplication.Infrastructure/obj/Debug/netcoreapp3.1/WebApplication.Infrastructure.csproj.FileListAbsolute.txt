@@ -1,0 +1,10 @@
+C:\Users\GilFatima\Desktop\Development\WEBJET\Gil John Ferolino - M2-M3 FullStack (VIC)\WebApplication.Infrastructure\bin\Debug\netcoreapp3.1\WebApplication.Infrastructure.deps.json
+C:\Users\GilFatima\Desktop\Development\WEBJET\Gil John Ferolino - M2-M3 FullStack (VIC)\WebApplication.Infrastructure\bin\Debug\netcoreapp3.1\WebApplication.Infrastructure.dll
+C:\Users\GilFatima\Desktop\Development\WEBJET\Gil John Ferolino - M2-M3 FullStack (VIC)\WebApplication.Infrastructure\bin\Debug\netcoreapp3.1\WebApplication.Infrastructure.pdb
+C:\Users\GilFatima\Desktop\Development\WEBJET\Gil John Ferolino - M2-M3 FullStack (VIC)\WebApplication.Infrastructure\obj\Debug\netcoreapp3.1\WebApplication.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\GilFatima\Desktop\Development\WEBJET\Gil John Ferolino - M2-M3 FullStack (VIC)\WebApplication.Infrastructure\obj\Debug\netcoreapp3.1\WebApplication.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GilFatima\Desktop\Development\WEBJET\Gil John Ferolino - M2-M3 FullStack (VIC)\WebApplication.Infrastructure\obj\Debug\netcoreapp3.1\WebApplication.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\GilFatima\Desktop\Development\WEBJET\Gil John Ferolino - M2-M3 FullStack (VIC)\WebApplication.Infrastructure\obj\Debug\netcoreapp3.1\WebApplication.Infrastructure.AssemblyInfo.cs
+C:\Users\GilFatima\Desktop\Development\WEBJET\Gil John Ferolino - M2-M3 FullStack (VIC)\WebApplication.Infrastructure\obj\Debug\netcoreapp3.1\WebApplication.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\GilFatima\Desktop\Development\WEBJET\Gil John Ferolino - M2-M3 FullStack (VIC)\WebApplication.Infrastructure\obj\Debug\netcoreapp3.1\WebApplication.Infrastructure.dll
+C:\Users\GilFatima\Desktop\Development\WEBJET\Gil John Ferolino - M2-M3 FullStack (VIC)\WebApplication.Infrastructure\obj\Debug\netcoreapp3.1\WebApplication.Infrastructure.pdb

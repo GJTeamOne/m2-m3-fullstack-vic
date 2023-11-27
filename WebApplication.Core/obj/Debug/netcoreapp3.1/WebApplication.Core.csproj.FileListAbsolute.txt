@@ -1,0 +1,13 @@
+C:\Users\GilFatima\Desktop\Development\WEBJET\Gil John Ferolino - M2-M3 FullStack (VIC)\WebApplication.Core\bin\Debug\netcoreapp3.1\WebApplication.Core.deps.json
+C:\Users\GilFatima\Desktop\Development\WEBJET\Gil John Ferolino - M2-M3 FullStack (VIC)\WebApplication.Core\bin\Debug\netcoreapp3.1\WebApplication.Core.dll
+C:\Users\GilFatima\Desktop\Development\WEBJET\Gil John Ferolino - M2-M3 FullStack (VIC)\WebApplication.Core\bin\Debug\netcoreapp3.1\WebApplication.Core.pdb
+C:\Users\GilFatima\Desktop\Development\WEBJET\Gil John Ferolino - M2-M3 FullStack (VIC)\WebApplication.Core\bin\Debug\netcoreapp3.1\WebApplication.Infrastructure.dll
+C:\Users\GilFatima\Desktop\Development\WEBJET\Gil John Ferolino - M2-M3 FullStack (VIC)\WebApplication.Core\bin\Debug\netcoreapp3.1\WebApplication.Infrastructure.pdb
+C:\Users\GilFatima\Desktop\Development\WEBJET\Gil John Ferolino - M2-M3 FullStack (VIC)\WebApplication.Core\obj\Debug\netcoreapp3.1\WebApplication.Core.csproj.AssemblyReference.cache
+C:\Users\GilFatima\Desktop\Development\WEBJET\Gil John Ferolino - M2-M3 FullStack (VIC)\WebApplication.Core\obj\Debug\netcoreapp3.1\WebApplication.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GilFatima\Desktop\Development\WEBJET\Gil John Ferolino - M2-M3 FullStack (VIC)\WebApplication.Core\obj\Debug\netcoreapp3.1\WebApplication.Core.AssemblyInfoInputs.cache
+C:\Users\GilFatima\Desktop\Development\WEBJET\Gil John Ferolino - M2-M3 FullStack (VIC)\WebApplication.Core\obj\Debug\netcoreapp3.1\WebApplication.Core.AssemblyInfo.cs
+C:\Users\GilFatima\Desktop\Development\WEBJET\Gil John Ferolino - M2-M3 FullStack (VIC)\WebApplication.Core\obj\Debug\netcoreapp3.1\WebApplication.Core.csproj.CoreCompileInputs.cache
+C:\Users\GilFatima\Desktop\Development\WEBJET\Gil John Ferolino - M2-M3 FullStack (VIC)\WebApplication.Core\obj\Debug\netcoreapp3.1\WebApplication.Core.csproj.CopyComplete
+C:\Users\GilFatima\Desktop\Development\WEBJET\Gil John Ferolino - M2-M3 FullStack (VIC)\WebApplication.Core\obj\Debug\netcoreapp3.1\WebApplication.Core.dll
+C:\Users\GilFatima\Desktop\Development\WEBJET\Gil John Ferolino - M2-M3 FullStack (VIC)\WebApplication.Core\obj\Debug\netcoreapp3.1\WebApplication.Core.pdb
